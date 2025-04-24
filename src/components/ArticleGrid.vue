@@ -1,5 +1,5 @@
 <template>
-  <section class="max-w-7xl mx-auto px-6 md:px-12 py-12 grid md:grid-cols-3 gap-12">
+  <section class="max-w-7xl mx-auto py-12 grid md:grid-cols-3 gap-12">
     <!-- Articles -->
     <div class="md:col-span-2 space-y-12">
       <ArticleCard
@@ -52,7 +52,7 @@ import ArticleCard from './ArticleCard.vue'
 const articles = [
   {
     title: 'Hope dies last',
-    desc: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
+    desc: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Egestas dui id ornare arcu odio ut sem. Cras ornare arcu dui vivamus arcu felis bibendum ut. Porttitor leo a diam.',
     author: 'Jakob Grønborg',
     image: 'https://picsum.photos/200/300',
     date: '16. March 2022',
@@ -61,7 +61,7 @@ const articles = [
   },
   {
     title: 'The best art museums',
-    desc: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
+    desc: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Egestas dui id ornare arcu odio ut sem. Cras ornare arcu dui vivamus arcu felis bibendum ut. Porttitor leo a diam.',
     author: 'Jakob Grønborg',
     image: 'https://picsum.photos/200/300',
     date: '16. March 2022',
@@ -70,7 +70,7 @@ const articles = [
   },
   {
     title: 'The devil is the details',
-    desc: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
+    desc: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Egestas dui id ornare arcu odio ut sem. Cras ornare arcu dui vivamus arcu felis bibendum ut. Porttitor leo a diam.',
     author: 'Jakob Grønborg',
     image: 'https://picsum.photos/200/300',
     date: '16. March 2022',
@@ -79,7 +79,7 @@ const articles = [
   },
   {
     title: 'An indestructible hope',
-    desc: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
+    desc: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Egestas dui id ornare arcu odio ut sem. Cras ornare arcu dui vivamus arcu felis bibendum ut. Porttitor leo a diam.',
     author: 'Jakob Grønborg',
     image: 'https://picsum.photos/200/300',
     date: '16. March 2022',
@@ -88,7 +88,7 @@ const articles = [
   },
   {
     title: 'Street art festival',
-    desc: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
+    desc: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Egestas dui id ornare arcu odio ut sem. Cras ornare arcu dui vivamus arcu felis bibendum ut. Porttitor leo a diam.',
     author: 'Jakob Grønborg',
     image: 'https://picsum.photos/200/300',
     date: '16. March 2022',
@@ -97,7 +97,7 @@ const articles = [
   },
   {
     title: 'Through the eyes of street artists',
-    desc: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
+    desc: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Egestas dui id ornare arcu odio ut sem. Cras ornare arcu dui vivamus arcu felis bibendum ut. Porttitor leo a diam.',
     author: 'Jakob Grønborg',
     image: 'https://picsum.photos/200/300',
     date: '16. March 2022',
